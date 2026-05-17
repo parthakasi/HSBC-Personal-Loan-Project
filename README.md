@@ -19,11 +19,7 @@ Designed an interactive dashboard with insights and business recommendations.
 
 # Key Findings
 
-Customers with income above 100K are more likely to take personal loans.
-Professional and graduate customers show higher loan acceptance rates.
-Families with 3–4 members are strong target customers for personal loans.
-Customers using online banking, TD accounts, securities accounts, and credit cards are more likely to accept loans.
-Customers with lower mortgage values have better repayment capability.
+Customers with income above 100K are more likely to take personal loans. Professional and graduate customers show higher loan acceptance rates. Families with 3–4 members are strong target customers for personal loans. Customers using online banking, TD accounts, securities accounts, and credit cards are more likely to accept loans. Customers with lower mortgage values have better repayment capability. Middle-aged customers are also more likely to take personal loans due to stable income and higher financial responsibilities.
 
 # Conclusion
 
